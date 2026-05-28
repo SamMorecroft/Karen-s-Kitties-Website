@@ -194,6 +194,10 @@
 		text-align: center;
 	}
 
+	.nav-menu a{
+		font-size: 40px;
+	}
+
 	.nav-menu li{
 		margin: 15px 0;
 	}
