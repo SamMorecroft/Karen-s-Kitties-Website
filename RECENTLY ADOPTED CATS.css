@@ -85,6 +85,11 @@
 	font-size: 20px;
 }
 
+.video{
+	display: flex;
+	justify-content: center;
+}
+
 @media (max-width: 1422px){
 	.nav-menu a{
 		padding: 0px 0px 0px 25px;
